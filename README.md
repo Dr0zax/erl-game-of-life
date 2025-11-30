@@ -10,6 +10,8 @@ Build
 erl
 ```
 
+- if you dont have it installed download it at https://www.erlang.org/patches/otp-26.2.5.16
+
 2. compile in the erlang shell
 ```erlang
 c(game_of_life)
